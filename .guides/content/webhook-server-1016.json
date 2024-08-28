@@ -1,0 +1,32 @@
+{
+	"id": "1016833a-8e2b-0967-35c5-18cc543fd4d5",
+	"title": "webhook server",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#terminal: ",
+			"panel": 0,
+			"action": "open"
+		},
+		{
+			"path": "app.js",
+			"panel": 1,
+			"action": "open"
+		},
+		{
+			"path": "#preview: https://{{domain3000}}",
+			"panel": 1,
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "3-columns-tree"
+}
