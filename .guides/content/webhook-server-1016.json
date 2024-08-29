@@ -20,6 +20,11 @@
 			"path": "#preview: https://{{domain3000}}",
 			"panel": 1,
 			"action": "open"
+		},
+		{
+			"path": "README.md",
+			"panel": 1,
+			"action": "open"
 		}
 	],
 	"path": [],
